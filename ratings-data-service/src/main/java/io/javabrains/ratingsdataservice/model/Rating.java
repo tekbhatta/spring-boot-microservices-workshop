@@ -5,7 +5,7 @@ public class Rating {
     private String movieId;
     private int rating;
 
-    private String tests;
+    private String testBranch;
 
     public Rating(String movieId, int rating) {
         this.movieId = movieId;

@@ -5,7 +5,7 @@ public class Movie {
     private String name;
     private String description;
 
-    private String test55;
+    private String MasterTek;
 
 
     public Movie(String movieId, String name, String description) {
